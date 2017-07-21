@@ -1,8 +1,8 @@
-﻿{
+{
   "dependencies": {
     "Microsoft.NETCore.App": {
-      "version": "1.0.1",
-      "type": "platform"
+      "type": "platform",
+      "version": "1.0.1"
     },
     "Microsoft.ApplicationInsights.AspNetCore": "1.0.0",
     "Microsoft.AspNetCore.Mvc": "1.0.1",
@@ -16,7 +16,9 @@
     "Microsoft.Extensions.Logging.Console": "1.0.0",
     "Microsoft.Extensions.Logging.Debug": "1.0.0",
     "Microsoft.Extensions.Options.ConfigurationExtensions": "1.0.0",
-    "MongoDB.Driver": "2.4.4"
+    "MongoDB.Driver": "2.4.4",
+    "Microsoft.TypeScript.Compiler": "2.4.1",
+    "Microsoft.TypeScript.MSBuild": "2.4.1"
   },
 
   "tools": {
