@@ -1,0 +1,62 @@
+"Data": [
+	{
+		"Project": "Internal",
+		"Task": "none",
+		"Issue": "",
+		"Effort": {
+			"STD": "1.0",
+			"OVR": "0.0"
+		}
+		"Description": "Preparing for C# exam: studied dynamic types",
+		"BLB": "",
+		"OVR": "",
+		"Started Date": "18.07.2017 Tue",
+		"Completion Date": "18.07.2017 Tue",
+		"Status": "OPEN"
+	}
+	{
+		"Project": "Internal",
+		"Task": "none",
+		"Issue": "",
+		"Effort": {
+			"STD": "1.5",
+			"OVR": "0.0"
+		}
+		"Description": "Preparing for C# exam: studied values and references types",
+		"BLB": "",
+		"OVR": "",
+		"Started Date": "18.07.2017 Tue",
+		"Completion Date": "18.07.2017 Tue",
+		"Status": "OPEN"
+	}
+	{
+		"Project": "Internal",
+		"Task": "none",
+		"Issue": "",
+		"Effort": {
+			"STD": "0.5",
+			"OVR": "0.0"
+		}
+		"Description": "Updated Microsoft Visual Studio 2015",
+		"BLB": "",
+		"OVR": "",
+		"Started Date": "18.07.2017 Tue",
+		"Completion Date": "18.07.2017 Tue",
+		"Status": "OPEN"
+	}
+	{
+		"Project": "Internal",
+		"Task": "none",
+		"Issue": "",
+		"Effort": {
+			"STD": "2.0",
+			"OVR": "0.0"
+		}
+		"Description": "Preparing for C# exam: studied garbage collection",
+		"BLB": "",
+		"OVR": "",
+		"Started Date": "18.07.2017 Tue",
+		"Completion Date": "18.07.2017 Tue",
+		"Status": "OPEN"
+	}
+]
