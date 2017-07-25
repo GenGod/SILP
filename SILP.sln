@@ -4,9 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F4D2E7A2-93DE-40D0-9997-6AB5A6983E5F}"
-	ProjectSection(SolutionItems) = preProject
-		package.json = package.json
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C7CE7146-4F4A-46F0-945F-E83EFB409898}"
 	ProjectSection(SolutionItems) = preProject
