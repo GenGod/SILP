@@ -24,13 +24,13 @@ namespace SILP.Controllers
 
         // GET api/values
         /// <summary>
-        /// Returns Employee list
+        /// Returns Employee list (without times data)
         /// </summary>
         /// <returns></returns>
         [HttpGet]
         public IEnumerable<Employee> Get()
-        {
-            return CreateRepository().Query().ToList();
+        {            
+            return CreateRepository().Query().Select(e => new Employee { Id = e.Id, UserName = e.UserName }).ToList();
         }
 
         // GET api/values/5
