@@ -28,9 +28,9 @@ namespace SILP.Controllers
         /// </summary>
         /// <returns></returns>
         [HttpGet]
-        public IEnumerable<Employee> Get()
-        {            
-            return CreateRepository().Query().Select(e => new Employee { Id = e.Id, UserName = e.UserName }).ToList();
+        public JsonResult Get()
+        {
+            return Json(new { name = "Name", value = 10 });//CreateRepository().Query().Select(e => new Employee { Id = e.Id, UserName = e.UserName }).ToList();
         }
 
         // GET api/values/5
